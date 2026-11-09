@@ -1,0 +1,5 @@
+# Only the prompt and README are tracked; audit reports must never be committed.
+*
+!.gitignore
+!README.md
+!security-audit-prompt.md
